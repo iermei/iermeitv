@@ -1,8 +1,8 @@
 🎬官方公告,#genre#
-怎么找到我们,https://gh-proxy.org/https://github.com/iermei/iermeitv/blob/main/iermeilive-lianxi.mp4
-电视安装教程,https://gh-proxy.org/https://github.com/iermei/iermeitv/blob/main/iermeilive-anzhuang.mp4
-支持手机/电视/车载,https://gh-proxy.org/https://github.com/iermei/iermeitv/blob/main/iermeilive-lianxi.mp4
-永久维护,https://gh-proxy.org/https://github.com/iermei/iermeitv/blob/main/iermeilive-lianxi.mp4
+怎么找到我们,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-lianxi.mp4
+电视安装教程,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-anzhuang.mp4
+支持手机/电视/车载,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-lianxi.mp4
+永久维护,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-lianxi.mp4
 
 
 🎰随机轮播,#genre#
@@ -1639,7 +1639,7 @@ GOOD2 TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveeven
 
 
 🗽smart,#genre#
-观看说明:此分组需香港IP可稳定观看,https://gh-proxy.org/https://github.com/iermei/iermeitv/blob/main/iermeilive-lianxi.mp4
+观看说明:此分组需香港IP可稳定观看,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-lianxi.mp4
 香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 香港|翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
 香港|iNews 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
@@ -4915,7 +4915,7 @@ F1：狂飙飞车,https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/2000k/hls/mi
 
 
 🎬留言求片,#genre#
-求片可留言,https://gh-proxy.org/https://github.com/iermei/iermeitv/blob/main/iermeilive-lianxi.mp4
+求片可留言,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-lianxi.mp4
 
 
 
