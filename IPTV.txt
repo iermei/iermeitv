@@ -3032,13 +3032,15 @@ CCTV14,http://rihou.cc:555/tv/CCTV14酒店
 国际少儿,http://110.42.62.252:8080/live/sews.m3u8
 
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
-哆啦A梦,https://live.ottiptv.cc/huya/11601963
 哆啦A梦,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
-七龙珠,https://live.ottiptv.cc/huya/11601966
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
 七龙珠,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
+
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
-喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
 喜羊羊与灰太狼,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865080
+喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
+
 精灵宝可梦,https://live.ottiptv.cc/huya/23749096
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 中华小当家,https://live.ottiptv.cc/huya/11342413
@@ -3116,13 +3118,13 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 变形金刚,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059596
 陈翔六点半,http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
-野行者其他,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
+斗牛要不要,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
 
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
-哆啦A梦,https://live.ottiptv.cc/huya/11601963
 哆啦A梦,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
-七龙珠,https://live.ottiptv.cc/huya/11601966
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
 七龙珠,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
 精灵宝可梦,https://live.ottiptv.cc/huya/23749096
@@ -3145,8 +3147,8 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 西游记1,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
 天龙八部,http://tv.zimtv.cn/tv/player/api/huya.php?id=23903123
 
-寻秦记,http://tv.zimtv.cn/tv/player/api/huya.php?id=23864973
-大唐双龙传,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728674
+敢死队,http://tv.zimtv.cn/tv/player/api/huya.php?id=23864973
+行尸走肉,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728674
 神雕侠侣,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865171
 倚天屠龙记,http://tv.zimtv.cn/tv/player/api/huya.php?id=23734246
 永夜星河,http://tv.zimtv.cn/tv/player/api/huya.php?id=23734169
