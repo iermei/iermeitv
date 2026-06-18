@@ -3116,7 +3116,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 西游记后传,https://live.ottiptv.cc/yy/1353392400
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-变形金刚,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059596
+仙剑奇侠传三,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059596
 陈翔六点半,http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
 斗牛要不要,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
 
@@ -3144,7 +3144,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 鬼吹灯之龙岭迷窟,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465863
 鬼吹灯之云南虫谷,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352898
 楚汉骄雄,http://tv.zimtv.cn/tv/player/api/huya.php?id=23740156
-西游记1,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
+大江大河3,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
 天龙八部,http://tv.zimtv.cn/tv/player/api/huya.php?id=23903123
 
 敢死队,http://tv.zimtv.cn/tv/player/api/huya.php?id=23864973
@@ -3171,7 +3171,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 妙手仁心,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465853
 笑傲江湖,http://tv.zimtv.cn/tv/player/api/huya.php?id=26355790
 封神榜,http://tv.zimtv.cn/tv/player/api/huya.php?id=23749096
-西游记1,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
+大江大河3,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
 西游记2,http://tv.zimtv.cn/tv/player/api/huya.php?id=23735126
 天龙八部,http://tv.zimtv.cn/tv/player/api/huya.php?id=23903123
 鹿鼎记,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865080
