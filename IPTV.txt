@@ -3038,6 +3038,7 @@ CCTV14,http://rihou.cc:555/tv/CCTV14酒店
 七龙珠,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
+喜羊羊与灰太狼,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865080
 精灵宝可梦,https://live.ottiptv.cc/huya/23749096
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 中华小当家,https://live.ottiptv.cc/huya/11342413
@@ -3143,12 +3144,12 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 楚汉骄雄,http://tv.zimtv.cn/tv/player/api/huya.php?id=23740156
 西游记1,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728660
 天龙八部,http://tv.zimtv.cn/tv/player/api/huya.php?id=23903123
-鹿鼎记,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865080
+
 寻秦记,http://tv.zimtv.cn/tv/player/api/huya.php?id=23864973
 大唐双龙传,http://tv.zimtv.cn/tv/player/api/huya.php?id=23728674
 神雕侠侣,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865171
 倚天屠龙记,http://tv.zimtv.cn/tv/player/api/huya.php?id=23734246
-刑事侦缉档案,http://tv.zimtv.cn/tv/player/api/huya.php?id=23734169
+永夜星河,http://tv.zimtv.cn/tv/player/api/huya.php?id=23734169
 洗冤录,http://tv.zimtv.cn/tv/player/api/huya.php?id=23903130
 使徒行者,http://tv.zimtv.cn/tv/player/api/huya.php?id=23734256
 金枝欲孽,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865036
@@ -3157,9 +3158,10 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 大时代,http://tv.zimtv.cn/tv/player/api/huya.php?id=23865161
 雪豹,http://tv.zimtv.cn/tv/player/api/huya.php?id=29580970
 庆余年,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352960
+庆余年,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854
 家有儿女,http://tv.zimtv.cn/tv/player/api/huya.php?id=30335591
 梦中的那片海,http://tv.zimtv.cn/tv/player/api/huya.php?id=26355765
-楚汉骄雄,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854
+
 封神榜,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465849
 寻秦记,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465848
 陀枪师姐,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465857
