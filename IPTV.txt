@@ -263,9 +263,7 @@
 📺央卫频道,#genre#
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0$酒店线路
-CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV1,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+
 
 CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
 CCTV2,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
@@ -397,6 +395,17 @@ ta视湖北,https://cfss.cc/cdn/dy/SmarTower.flv
 
 
 📺咪咕视频,#genre#
+CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$标清高峰不卡带广告
+CCTV1,http://go.bkpcp.top/mg/cctv1$高峰不卡带广告
+CCTV1,http://m.061899.xyz/mg/cctv1$高峰不卡带广告
+CCTV1,http://hls.netlive.ggff.net/hls/cctv1.m3u8
+CCTV1,http://119.29.13.205:1234/608807420
+CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV1,http://k.061899.xyz/k.php?id=cctv1$广东/广州/腾讯云-标清-高峰不卡带广告
+CCTV1,http://114.241.111.4:85/tsfile/live/1/1001_1.m3u8?key=txiptv$北京/联通酒店高峰不卡
+CCTV1,http://ahmaslt.sohu.blog:8000/hls/1/index.m3u8
+CCTV1,http://ah2.sohu.blog:8000/hls/1/index.m3u8$安徽移动-高峰卡
+
 CCTV1综合,http://101.6.130.52:1234/608807420
 CCTV2财经,http://101.6.130.52:1234/631780532
 CCTV3综艺,http://101.6.130.52:1234/624878271
