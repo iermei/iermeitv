@@ -263,6 +263,9 @@
 📺央卫频道,#genre#
 
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0$酒店线路
+CCTV1,http://rihou.cc:555/tv/CCTV1$酒店
+CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
 CCTV2,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
@@ -394,6 +397,7 @@ ta视湖北,https://cfss.cc/cdn/dy/SmarTower.flv
 
 
 📺咪咕视频,#genre#
+CCTV1综合,http://101.6.130.52:1234/608807420
 CCTV1综合,http://219.157.136.61:1234/608807420
 CCTV1综合,http://8.137.180.215:8899/608807420
 CCTV2财经,http://8.137.180.215:8899/631780532
