@@ -395,16 +395,7 @@ ta视湖北,https://cfss.cc/cdn/dy/SmarTower.flv
 
 
 📺咪咕视频,#genre#
-CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$标清高峰不卡带广告
-CCTV1,http://go.bkpcp.top/mg/cctv1$高峰不卡带广告
-CCTV1,http://m.061899.xyz/mg/cctv1$高峰不卡带广告
-CCTV1,http://hls.netlive.ggff.net/hls/cctv1.m3u8
-CCTV1,http://119.29.13.205:1234/608807420
-CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
-CCTV1,http://k.061899.xyz/k.php?id=cctv1$广东/广州/腾讯云-标清-高峰不卡带广告
-CCTV1,http://114.241.111.4:85/tsfile/live/1/1001_1.m3u8?key=txiptv$北京/联通酒店高峰不卡
-CCTV1,http://ahmaslt.sohu.blog:8000/hls/1/index.m3u8
-CCTV1,http://ah2.sohu.blog:8000/hls/1/index.m3u8$安徽移动-高峰卡
+CCTV1,http://192.151.150.154/live/cctv1hd.m3u8
 
 CCTV1综合,http://101.6.130.52:1234/608807420
 CCTV2财经,http://101.6.130.52:1234/631780532
