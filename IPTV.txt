@@ -572,11 +572,13 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 
 
 吉林综合,#genre#
+
+
+
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 吉林卫视,http://stream5.jlntv.cn/df/sd/live.m3u8
 吉林卫视,https://live-master.jlntv.cn/jlwshd/sd/live.m3u8
 长春综合,http://stream2.jlntv.cn/jlcc/sd/live.m3u8
-长春综合,http://123.207.224.130:123/jilin/jilin.php?id=cczh
 吉林磐石综合,http://stream5.jlntv.cn/ps/playlist.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
@@ -625,6 +627,7 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
 
+长春综合,http://123.207.224.130:123/jilin/jilin.php?id=cczh
 延边卫视,http://123.207.224.130:123/jilin/jilin.php?id=ybws
 吉林新闻,http://123.207.224.130:123/jilin/jilin.php?id=jlszh
 
@@ -800,18 +803,8 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 塔河综合,https://rmplive.hljtv.com/live/tahe.m3u8
 漠河市综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 漠河综合,https://rmplive.hljtv.com/live/mohe.m3u8
-齐齐哈尔新闻综合,https://masterpull.hljtv.com/live/dUi8b96l.m3u8
+齐齐哈尔新闻,https://masterpull.hljtv.com/live/dUi8b96l.m3u8
 齐齐哈尔新闻,https://rmplive.hljtv.com/live/qiqihaer.m3u8
-
-齐齐哈尔新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-齐齐哈尔经济,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-大庆新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-佳木斯新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-哈尔滨新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-鹤岗新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 黑龙江卫视,http://112.99.195.122:65000/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江影视,http://112.99.195.122:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
