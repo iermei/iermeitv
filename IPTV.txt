@@ -820,24 +820,6 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 
 辽宁综合,#genre#
 
-辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
-辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
-辽宁影视剧,http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
-辽宁体育,http://36.129.58.53:8008/paiptv/LNTY.m3u8
-辽宁生活,http://36.129.58.53:8008/paiptv/LNSH.m3u8
-辽宁北方,http://36.129.58.53:8008/paiptv/LNBF.m3u8
-辽宁公共,http://36.129.58.53:8008/paiptv/LNGG.m3u8
-辽宁经济,http://36.129.58.53:8008/paiptv/LNJJ.m3u8
-
-辽宁都市,http://124.94.197.227:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视剧,http://124.94.197.227:9902/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://124.94.197.227:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://124.94.197.227:9902/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁北方,http://124.94.197.227:9902/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://124.94.197.227:9902/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://124.94.197.227:9902/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁教育青少,http://124.94.197.227:9902/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁移动电视,http://124.94.197.227:9902/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000068
 辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000070
@@ -870,7 +852,6 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 辽宁北方,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnbf
 
 辽宁卫视,http://k.061899.xyz/k.php?id=lnws
-辽宁体育,http://8.137.180.215:8899/962067526
 
 
 
@@ -878,7 +859,6 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 
 河北综合,#genre#
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1893427200&k=590149d139a9820d4a4e5c89383199b1
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
 河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1893427200&k=2bbbb53c494c02c044ed8805c541df4e
@@ -887,7 +867,6 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 河北三佳购物,http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=1893427200&k=6bd4aeba4f185e4918a1408e970f4064
 河北文旅体育,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1780110129&k=47146f0607c757fda253ccb84779c9cc
 
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,https://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北4K频道,https://event.pull.hebtv.com/live/live101.m3u8
 美丽河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -955,7 +934,6 @@ BTV科教,http://m.061899.xyz/mg/bjjs
 河北公共,https://www.nettvpro.xyz/hls/hebei.php?id=hbgg
 河北农民,https://www.nettvpro.xyz/hls/hebei.php?id=hbnm
 
-河北卫视,http://8.138.7.223/tv/hebtv.m3u8
 
 石家庄新,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8$官方源
 石家庄娱,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8$官方源
