@@ -1,8 +1,8 @@
 🎬官方公告,#genre#
-怎么找到我们,https://gh-proxy.org/https://raw.githubusercontent.com/iermei/iermeitv/refs/heads/main/site/iermeilive-lianxi.mp4
-电视安装教程,https://gh-proxy.org/https://raw.githubusercontent.com/iermei/iermeitv/refs/heads/main/site/iermeilive-anzhuang.mp4
-支持手机/电视/车载,https://gh-proxy.org/https://raw.githubusercontent.com/iermei/iermeitv/refs/heads/main/site/iermeilive-lianxi.mp4
-永久维护,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/site/iermeilive-lianxi.mp4
+怎么找到我们,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/refs/heads/main/site/iermeilive-lianxi.mp4
+电视安装教程,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/refs/heads/main/site/iermeilive-anzhuang.mp4
+支持手机/电视/车载,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/refs/heads/main/site/iermeilive-lianxi.mp4
+永久维护,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/refs/heads/main/site/iermeilive-lianxi.mp4
 
 
 
@@ -8940,4 +8940,4 @@ X战警:黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4
 Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
 
 🎬留言求片,#genre#
-求片可留言,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/main/iermeilive-lianxi.mp4
+求片可留言,https://gh-proxy.org/https://github.com/iermei/iermeitv/raw/refs/heads/main/site/iermeilive-lianxi.mp4
