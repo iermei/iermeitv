@@ -2672,7 +2672,11 @@ CQTV移动,http://124.162.85.150:4022/udp/225.0.4.215:7980
 
 
 
-极速港台,#genre#,DE=3
+港澳台,#genre#,DE=3
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
 TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
@@ -2684,17 +2688,11 @@ ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
 Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
 HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
 HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
 
-
-四季台湾,#genre#
 中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻(备),http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
@@ -2851,7 +2849,7 @@ NICK JR HD,http://108.181.20.255:27347/livehttpplay?channel_id=23044
 CARTOON NETWORK HD,http://108.181.20.255:27347/livehttpplay?channel_id=23045
 
 
-🇬🇧英国(挂梯子),#genre# 
+🇬🇧英国,#genre# 
 UK ULTRA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451783
 SERVICE INFORMATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1515133
 BBC1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693835
@@ -3102,7 +3100,7 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 
 
-🇯🇵日本(挂梯子),#genre#
+🇯🇵日本,#genre#
 
 日テレNEWS24,http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
 日新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -3532,7 +3530,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 
  
 
-斗鱼电视剧,#genre#
+斗鱼直播,#genre#
 
 竹叶的熊猫,http://shorturl.jxpan.vip:880/r/baoshi_aio/douyu/3870925
 橙記Orange丶,http://shorturl.jxpan.vip:880/r/baoshi_aio/douyu/4549169
